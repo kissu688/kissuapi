@@ -4,4 +4,4 @@ email: kissu688@outlook.com
 description: >- # KissU's API
   KissU's API
 baseurl: "" # 如果你的博客不在根目录下，需要设置这个值
-url: "https://api.kissu688.com" # 你的博客网址
+url: "https://mock.kissu688.com" # 你的博客网址
